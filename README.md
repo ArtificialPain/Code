@@ -1,5 +1,5 @@
 # Code
-Code accompanying the paper 'Toward Affective Empathy in AI: Encoding Internal Representations of Artificial Pain' accepted to CCN 2025 Extended Abstract Track. 
+Code accompanying the paper 'Toward Affective Empathy in AI: Encoding Internal Representations of "Artificial Pain"' accepted to CCN 2025 Extended Abstract Track. 
 
 ### Angeline Wang and Iran R. Roman
 #### Department of Computer Science, Queen Mary University of London 
