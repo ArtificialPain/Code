@@ -129,11 +129,11 @@ Choose the metric for model evaluation, either accuracy or loss is most suitable
 If you have any questions about this work, please contact *Angeline Wang* at [ec24817@qmul.ac.uk](mailto:ec24817@qmul.ac.uk).
 
 ## Reference 
-If you use our dataset or code, please cite our paper: [Toward Affective Empathy in AI: Encoding Internal Representations of Artificial Pain
+If you use our dataset or code, please cite our paper: [Toward Affective Empathy in AI: Encoding Internal Representations of "Artificial Pain"
 ](). 
 ```
 @article{wangroman2025artificialpain,
-    title = {Toward Affective Empathy in AI: Encoding Internal Representations of Artificial Pain},
+    title = {Toward Affective Empathy in AI: Encoding Internal Representations of "Artificial Pain"},
     author={Wang, Angeline and Roman, Iran R},
     year = {2025},
     publisher = {8th annual conference on Cognitive Computational Neuroscience},
